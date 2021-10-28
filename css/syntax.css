@@ -4,10 +4,10 @@
 *Date 28.10.2021
 *
 *********************************/
-article p:first-child{
+article p:first-of-type{
     font-weight: bold;
 }
 
-article p:last-child{
+article p:last-of-type{
     color:red;
 }
