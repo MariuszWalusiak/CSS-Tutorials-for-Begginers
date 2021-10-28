@@ -4,10 +4,6 @@
 *Date 28.10.2021
 *
 *********************************/
-article.featured-content{
-    background-color: grey;
-}
-
-div.featured-content{
-    background-color: blue;
+*{
+    color: red;
 }
