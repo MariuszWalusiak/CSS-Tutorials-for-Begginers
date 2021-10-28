@@ -5,5 +5,13 @@
 *
 *********************************/
 a:hover{
-color: red;
+    color: red;
+}
+
+a:active{
+    color: orange;
+}
+
+a:visited{
+    color: purple;
 }
