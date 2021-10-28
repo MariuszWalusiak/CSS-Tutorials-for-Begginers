@@ -4,14 +4,6 @@
 *Date 28.10.2021
 *
 *********************************/
-article{
-    font-size: 16px;
-}
-
-article h2{
-    font-size: 4em;
-}
-
-article p{
-    font-size: 50%;
+article h2, article p{
+    font-family: arial,helvetica,sans-serif;
 }
