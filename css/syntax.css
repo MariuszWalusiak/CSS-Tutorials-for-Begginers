@@ -4,18 +4,6 @@
 *Date 28.10.2021
 *
 *********************************/
-span[class~=deck]{
-    color: blue;
-}
-
-
-div[]{
-    background-color: grey;
-}
-
-a[href$="pdf"]{
-    color: green;
-}
-a[href^="http"]{
-    color: hotpink;
+a:hover{
+color: red;
 }
