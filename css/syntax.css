@@ -4,10 +4,8 @@
 *Date 28.10.2021
 *
 *********************************/
-#main-content p{
-    color: green;
-}
-
-#sub-content p{
+#main-content > p{
     color:red;
 }
+
+
