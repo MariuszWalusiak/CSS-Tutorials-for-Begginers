@@ -5,14 +5,17 @@
 *
 *********************************/
 
-body{
+#main-content p{
     color:red;
 }
 
-div{
-    color:blue;
+p{
+    color:black;
 }
 
-p{
-    color:green;
+.test{
+     color:green;
+}
+strong{
+    color: green;
 }
