@@ -4,14 +4,10 @@
 *Date 28.10.2021
 *
 *********************************/
-a:hover{
-    color: red;
+article p:first-child{
+    font-weight: bold;
 }
 
-a:active{
-    color: orange;
-}
-
-a:visited{
-    color: purple;
+article p:last-child{
+    color:red;
 }
