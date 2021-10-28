@@ -4,15 +4,6 @@
 *Date 28.10.2021
 *
 *********************************/
-
-li:nth-child(1), li:nth-child(7){
-    font-weight: bold;
-}
-
-li:nth-child(even){
-    background-color: hotpink;
-}
-
-li:nth-child(odd){
+article:nth-of-type(odd){
     background-color: grey;
 }
