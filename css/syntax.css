@@ -4,6 +4,10 @@
 *Date 28.10.2021
 *
 *********************************/
-article h2, article p{
-    font-family: arial,helvetica,sans-serif;
+article{
+    text-decoration: overline;
+}
+
+a{
+    text-decoration: inherit;
 }
