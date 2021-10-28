@@ -4,6 +4,10 @@
 *Date 28.10.2021
 *
 *********************************/
-article:nth-of-type(odd){
+article.featured-content{
     background-color: grey;
+}
+
+div.featured-content{
+    background-color: blue;
 }
