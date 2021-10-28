@@ -1,13 +1,13 @@
 /*********************************
 *
 *Author: Mariusz Walusiak
-*Date 27.10.2021
+*Date 28.10.2021
 *
 *********************************/
+#main-content p{
+    color: green;
+}
 
-p, span, a, li{
-    color: red;
-    font-size: 14px;
-    font-weight: bold;
-    font-family: Aerial;
+#sub-content p{
+    color:red;
 }
