@@ -4,11 +4,14 @@
 *Date 28.10.2021
 *
 *********************************/
-h1{
-    font-weight: normal ;
+#header p{
+    text-transform: capitalize;
 }
 
-p{
-    font-weight: 900;
-    font-family: "Yu Gothic";
+body{
+    text-transform: uppercase;
+}
+
+body > p{
+    text-transform: none ;
 }
