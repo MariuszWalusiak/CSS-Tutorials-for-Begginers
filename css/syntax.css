@@ -4,10 +4,11 @@
 *Date 28.10.2021
 *
 *********************************/
-article{
-    text-decoration: overline;
+h1{
+    font-weight: normal ;
 }
 
-a{
-    text-decoration: inherit;
+p{
+    font-weight: 900;
+    font-family: "Yu Gothic";
 }
