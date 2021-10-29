@@ -5,14 +5,9 @@
 *
 *********************************/
 
-a{
-    color: crimson;
-    text-decoration: none;
-    font-weight: bold;
-}
-
-a:hover{
-    color:darkmagenta;
-    text-decoration: underline;
-    background-color: darkturquoise;
+p{
+    font-size: 12px;
+    letter-spacing: 0.2em;
+    word-spacing: 2px;
+    line-height: 1.5;
 }
