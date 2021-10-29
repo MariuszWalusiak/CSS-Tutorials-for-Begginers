@@ -1,17 +1,18 @@
 /*********************************
 *
 *Author: Mariusz Walusiak
-*Date 28.10.2021
+*Date 29.10.2021
 *
 *********************************/
-#header h1{
-    color:chocolate
+
+a{
+    color: crimson;
+    text-decoration: none;
+    font-weight: bold;
 }
 
-#header h2{
-    color: #435822;
-}
-
-#header{
-    background-color: aquamarine;
+a:hover{
+    color:darkmagenta;
+    text-decoration: underline;
+    background-color: darkturquoise;
 }
