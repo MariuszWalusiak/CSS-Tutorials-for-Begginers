@@ -5,9 +5,8 @@
 *
 *********************************/
 
-p{
-    font-size: 14px;
-    letter-spacing: 0.2em;
-    line-height: 2em;
-    margin-bottom: 32px;
+.box{
+    margin:30px;
+    padding: 30px;
+    border:1px solid#000;
 }
