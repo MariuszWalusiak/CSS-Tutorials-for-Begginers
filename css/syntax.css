@@ -4,14 +4,14 @@
 *Date 28.10.2021
 *
 *********************************/
-#header p{
-    text-transform: capitalize;
+#header h1{
+    color:chocolate
 }
 
-body{
-    text-transform: uppercase;
+#header h2{
+    color: #435822;
 }
 
-body > p{
-    text-transform: none ;
+#header{
+    background-color: aquamarine;
 }
