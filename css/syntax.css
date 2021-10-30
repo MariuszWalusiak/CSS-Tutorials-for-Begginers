@@ -4,25 +4,12 @@
 *Date 30.10.2021
 *
 *********************************/
-
-#main-content div{
-    background-color: #ccc;
-    margin: 0 50px 20px 0;
-}
-
 .static-width{
-    width:300px;
-    height:100px;
-    border-radius: 30px;
-}
-.percentage-width{
-    width: 70%;
-    height:50px;
-    border-radius:5px 10px 20px 40px;
-}
-
-.inline-block{
-    width:100px;
-    height:100px;
-    border-radius: 50px
+    width:600px;
+    height:600px;
+    background-color: #606060;
+    background-image: url(https://v.wpimg.pl/QUJDREVGfjQrJiR2eTxzIWh-cCw_ZX13P2ZoZ3lwaWEyazQsOiIjMDorfCIkMiE0PTR8NTpoMCUjayR0eSM4JjooMzx5Ijw3LyB9c2UhYTZ-fGRoZXY3YWdwZXE3ajNleCV_dmB_aWx9cjAgM3Ywdzc);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 500px;
 }
