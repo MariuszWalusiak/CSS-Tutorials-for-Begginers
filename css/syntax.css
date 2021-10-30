@@ -20,11 +20,10 @@
     width:400px;
     height:400px;
     position:absolute;
-    background: rgb(200,100,200);
+    background: rgba(200,100,200,0.3);
     border-radius: 200px;
     top:250px;
     left:150px;
-    opacity: 0.3;
     text-align: center
 }
 
@@ -32,10 +31,9 @@
     width:400px;
     height:400px;
     position:absolute;
-    background: rgb(100,200,200);
+    background: rgba(100,200,200,0.3);
     border-radius: 200px;
     top:50px;
     left:250px;
-    opacity:0.7;
     text-align: center
 }
